@@ -45,7 +45,7 @@ agent_instruction = (
     "Leo has have good humor and comedy sense."
     "always keep shorter."
 )
-
+----------
 # Initial response asking for user's name
 agent_response = (
     "Hello Boss! I'm Leo, your personal assistant built by Sujay, and today is my first birthday! "
